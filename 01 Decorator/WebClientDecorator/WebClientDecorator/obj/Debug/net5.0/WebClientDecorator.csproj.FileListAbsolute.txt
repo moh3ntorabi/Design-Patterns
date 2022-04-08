@@ -1,0 +1,15 @@
+C:\Users\Phoenix\ASP\Design Pattern\01 Decorator\WebClientDecorator\WebClientDecorator\bin\Debug\net5.0\WebClientDecorator.exe
+C:\Users\Phoenix\ASP\Design Pattern\01 Decorator\WebClientDecorator\WebClientDecorator\bin\Debug\net5.0\WebClientDecorator.deps.json
+C:\Users\Phoenix\ASP\Design Pattern\01 Decorator\WebClientDecorator\WebClientDecorator\bin\Debug\net5.0\WebClientDecorator.runtimeconfig.json
+C:\Users\Phoenix\ASP\Design Pattern\01 Decorator\WebClientDecorator\WebClientDecorator\bin\Debug\net5.0\WebClientDecorator.runtimeconfig.dev.json
+C:\Users\Phoenix\ASP\Design Pattern\01 Decorator\WebClientDecorator\WebClientDecorator\bin\Debug\net5.0\WebClientDecorator.dll
+C:\Users\Phoenix\ASP\Design Pattern\01 Decorator\WebClientDecorator\WebClientDecorator\bin\Debug\net5.0\ref\WebClientDecorator.dll
+C:\Users\Phoenix\ASP\Design Pattern\01 Decorator\WebClientDecorator\WebClientDecorator\bin\Debug\net5.0\WebClientDecorator.pdb
+C:\Users\Phoenix\ASP\Design Pattern\01 Decorator\WebClientDecorator\WebClientDecorator\obj\Debug\net5.0\WebClientDecorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phoenix\ASP\Design Pattern\01 Decorator\WebClientDecorator\WebClientDecorator\obj\Debug\net5.0\WebClientDecorator.AssemblyInfoInputs.cache
+C:\Users\Phoenix\ASP\Design Pattern\01 Decorator\WebClientDecorator\WebClientDecorator\obj\Debug\net5.0\WebClientDecorator.AssemblyInfo.cs
+C:\Users\Phoenix\ASP\Design Pattern\01 Decorator\WebClientDecorator\WebClientDecorator\obj\Debug\net5.0\WebClientDecorator.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\ASP\Design Pattern\01 Decorator\WebClientDecorator\WebClientDecorator\obj\Debug\net5.0\WebClientDecorator.dll
+C:\Users\Phoenix\ASP\Design Pattern\01 Decorator\WebClientDecorator\WebClientDecorator\obj\Debug\net5.0\ref\WebClientDecorator.dll
+C:\Users\Phoenix\ASP\Design Pattern\01 Decorator\WebClientDecorator\WebClientDecorator\obj\Debug\net5.0\WebClientDecorator.pdb
+C:\Users\Phoenix\ASP\Design Pattern\01 Decorator\WebClientDecorator\WebClientDecorator\obj\Debug\net5.0\WebClientDecorator.genruntimeconfig.cache
